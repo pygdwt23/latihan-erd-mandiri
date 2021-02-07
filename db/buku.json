@@ -1,0 +1,20 @@
+[
+  {
+    "id_buku": 1,
+    "judul_buku": "Tips Mati Suri",
+    "pengarang": "Limbad",
+    "penerbit": "Kurang Yakin Media"
+  },
+  {
+    "id_buku": 2,
+    "judul_buku": "Kenikmatan Kopi Sianida",
+    "pengarang": "Jessica Wongso",
+    "penerbit": "Jesscafe"
+  },
+  {
+    "id_buku": 3,
+    "judul_buku": "Dampak TikTok Bagi Kesehatan Mental",
+    "pengarang": "Seto Mulyadi",
+    "penerbit": "TikTok Indonesia"
+  }
+]

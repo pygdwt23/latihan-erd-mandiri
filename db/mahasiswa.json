@@ -1,0 +1,20 @@
+[
+  {
+    "id_mhs": 1,
+    "nim": 202101,
+    "nama": "Andriy Lunin",
+    "jurusan": "Teknik Salto"
+  },
+  {
+    "id_mhs": 2,
+    "nim": 202102,
+    "nama": "Beethoven",
+    "jurusan": "Ilmu Hitam"
+  },
+  {
+    "id_mhs": 3,
+    "nim": 202103,
+    "nama": "Charlie Austin",
+    "jurusan": "Hubungan Supernatural"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id_pinjam": 1,
+    "id_buku": 2,
+    "nama_mhs": "Ted Bundy",
+    "tgl_pinjam": "2021-02-01",
+    "tgl_kembali": "2021-02-06"
+  },
+  {
+    "id_pinjam": 2,
+    "id_buku": 2,
+    "nama_mhs": "Joe Goldberg",
+    "tgl_pinjam": "2021-02-01",
+    "tgl_kembali": "2021-02-06"
+  },
+  {
+    "id_pinjam": 3,
+    "id_buku": 1,
+    "nama_mhs": "Richard Ramirez",
+    "tgl_pinjam": "2021-02-01",
+    "tgl_kembali": "2021-02-06"
+  }
+]
